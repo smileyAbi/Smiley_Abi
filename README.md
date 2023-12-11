@@ -1,4 +1,4 @@
-# Smiley_Abi
+# smileyAbi
 <h1 align="center">Hi 👋, I'm Abinaya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
